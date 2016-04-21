@@ -1,7 +1,5 @@
-# -
+小白一枚 
 目前什么都不懂
-class helloworld{
-  public static void main(String[] args){
-    System.out.println("helloworld");
-  }
-}
+努力入门java中，在知乎上知道本网站
+对于许多功能并不了解，希望能够得到指点，也希望能交到志同道合的朋友
+非常感谢！
